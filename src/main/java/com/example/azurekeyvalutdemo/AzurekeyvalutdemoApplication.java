@@ -15,6 +15,10 @@ import java.io.Console;
 public class AzurekeyvalutdemoApplication {
 
 	public static void main(String[] args) {
+
+/*
+* Reference: https://docs.microsoft.com/en-us/azure/developer/java/sdk/identity-service-principal-auth
+* */
 		//String keyVaultName = System.getenv("KEY_VAULT_NAME");
 		String keyVaultUri = "https://acckeyvault3000.vault.azure.net/";
 
